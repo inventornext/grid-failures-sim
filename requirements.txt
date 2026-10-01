@@ -1,0 +1,7 @@
+numpy>=1.24
+matplotlib>=3.7
+pandapower>=2.13
+jupyterlab
+nbformat
+nbconvert
+ipykernel
