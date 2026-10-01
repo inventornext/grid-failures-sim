@@ -46,7 +46,7 @@ print(r["f"].min())
 ## Run it
 
 ```bash
-git clone https://github.com/<your-username>/grid-failures-sim.git
+git clone https://github.com/inventornext/grid-failures-sim.git
 cd grid-failures-sim
 pip install -r requirements.txt
 jupyter lab notebooks/
